@@ -1,0 +1,2 @@
+# LocalShop
+My clone repository
